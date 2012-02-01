@@ -9,6 +9,6 @@ class DjangoDocsSearchCommand(sublime_plugin.TextCommand):
         for region in self.view.sel():
             word = self.view.word(region)
             if not word.empty():
-                url = "http://readthedocs.org/docs/django/en/latest/"\
+                url = "http://readthedocs.org/docs/django/en/1.3/"\
                 		"search.html?q=%s" % self.view.substr(word)
                 sublime.active_window().run_command('open_url', {"url": url})
