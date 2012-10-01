@@ -13,7 +13,7 @@
     1. Установить Sublime Package Control из http://wbond.net/sublime_packages/package_control/installation, выполнив указанную команду в консоли (ctrl+`), если он еще не установлен;
     2. Нажать "ctrl+shift+p" ("command+shift+p" на mac);
     3. Ввести "Package Control install";
-    4. Ввести "DjangoDocsSearch".
+    4. Ввести "Django-DocsSearch".
 
 ### Установка в Linux
 
