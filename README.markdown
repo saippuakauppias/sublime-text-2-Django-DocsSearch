@@ -1,33 +1,29 @@
 # Django DocsSearch
 
-Поиск Django-документации по выделенному слову
+Plugin created to search the documentation for Django.
 
-## Установка
+## Use
 
-Склонируйте или скачайте репозиторий в папку Packages от Sublime Text 2. 
-Переименуйте скачанную папку в 
-    Django-DocsSearch
+Highlight the code to find or place them next to the cursor and press ```SHIFT+ALT+D```.
 
-### Установка с использованием Sublime Package Control
+## Installation using Sublime Package Control
 
-    1. Установить Sublime Package Control из http://wbond.net/sublime_packages/package_control/installation, выполнив указанную команду в консоли (ctrl+`), если он еще не установлен;
-    2. Нажать "ctrl+shift+p" ("command+shift+p" на mac);
-    3. Ввести "Package Control install";
-    4. Ввести "Django-DocsSearch".
+Install [Sublime Package Control](http://wbond.net/sublime_packages/package_control/installation) if he not installed. Search and install ```Django-DocsSearch``` from Package Control.
 
-### Установка в Linux
+## Installation
+
+Clone the repository or download folder Packages from Sublime Text 2. Rename the downloaded folder to **Django-DocsSearch**.
+
+## Installation using CLI in Linux
 
     $ cd ~/.config/sublime-text-2/Packages/
     $ git clone git://github.com/saippuakauppias/sublime-text-2-Django-DocsSearch.git Django-DocsSearch
 
-### Установка в OSX
+## Installation using CLI in OS X
 
-    Будет написана позже.
+    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+    $ git clone git://github.com/saippuakauppias/sublime-text-2-Django-DocsSearch.git Django-DocsSearch
 
-### Установка в Windows
+## Installation in Windows
 
-    Будет написана позже.
-
-## Использование
-
-Выделите код для поиска или поставьте рядом с ним курсор и нажмите SHIFT+ALT+D.
+    Really?
