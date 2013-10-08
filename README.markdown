@@ -27,3 +27,7 @@ Clone the repository or download folder Packages from Sublime Text 2. Rename the
 ## Installation in Windows
 
     Really?
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/saippuakauppias/sublime-text-2-django-docssearch/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
